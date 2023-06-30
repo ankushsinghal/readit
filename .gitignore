@@ -1,2 +1,5 @@
 .vscode
 db.sqlite3
+readit/__pycache__/
+backend/__pycache__/
+backend/migrations/__pycache__/
